@@ -17,6 +17,7 @@ namespace Iterators
                 "are",
                 "awesome"
             };
+            
             foreach (var item in collection)
             {
                 Console.WriteLine(item.ToString());
